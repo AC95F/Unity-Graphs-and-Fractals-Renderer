@@ -1,4 +1,4 @@
-# Building-a-Graph
+# Unity Graphs and Fractals Renderer
  
 This is a Unity project that renders 3D animated visualizations of mathematical graph functions and fractals, using GPU shaders to generate geometry through Unity's Universal Render Pipeline (URP).
 
